@@ -21,7 +21,7 @@ function doNothing() {}
 
 function sayHiToGrandma(string) {
   if (string === lowercase) {
-    return "I can\'t hear you!"
+    return "I can\'t hear you!";
   } else {
     doNothing()
   }
